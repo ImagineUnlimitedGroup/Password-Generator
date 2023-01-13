@@ -128,7 +128,10 @@
 }
 
 .debug:hover   {
-  font-size: 17px;
+  color: #595959;
+}
+.debug:active   {
+  color: #353535;
 }
 
 @media (max-width: 500px) {
